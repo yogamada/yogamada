@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello word, i'm Yoga mada👋
 
 <!--
 **yogamada/yogamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 🔭 I’m Learning  [**laravel** ](https://laravel.com) framework
+ ![hi](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd213bTY5OXkzbHF3NjdtOGVraXJ2a2RiaTRrdmhjaGx5M3kybmFwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cjNy9CnBNZvYoh0VaW/giphy.gif)
